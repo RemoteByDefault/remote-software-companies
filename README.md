@@ -16,12 +16,12 @@
 |GitLab 🏡 |Infrastructure|🖥 Ruby, Rails 🎨 Vue.js ☁️ GCP, AWS| ✅ | ❌ |[ℹ️](https://remotebydefault.org/companies/gitlab) |
 |Heroku 🇺🇸 |Infrastructure|🖥 Ruby, Golang ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/heroku) |
 |MailerLite 🇱🇹 |Mailing service|🖥 PHP, Laravel 🎨 Vue.js| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/mailerlite) |
-|Mozilla 🇺🇸 |Browsers|🖥 C++, Golang, Rust, Kotlin, JavaScript, Swift, Python 🎨 React, JavaScript| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/mozilla) |
-|Netlify 🇺🇸 |Infrastructure|🖥 Ruby, Golang, Rust, C++, JavaScript| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/netlify) |
+|Mozilla 🇺🇸 |Browsers|🖥 C++, Golang, Rust, JavaScript, Python 🎨 React, JavaScript| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/mozilla) |
+|Netlify 🇺🇸 |Infrastructure|🖥 Ruby, Golang, Rust, C++ 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/netlify) |
 |RedHat 🇺🇸 |Operating Systems|🖥 Java, Spring Framework 🎨 React, JavaScript ☁️ OpenShift| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/redhat) |
 |Trello 🇺🇸 |Project management|🖥 Node.js 🎨 JavaScript, CoffeeScript| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/trello) |
 |Twitter 🇺🇸 |Social media|🖥 Java, Scala| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/twitter) |
-|Zapier 🇺🇸 |Social media automation|🖥 Python, Django, Node.js, RabbitMQ, Kafka, Golang 🎨 React, JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/zapier) |
+|Zapier 🇺🇸 |Social media automation|🖥 Python, Django, Node.js, Golang 🎨 React, JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/zapier) |
 |Coinbase 🇺🇸 |Cryptocurrency platform|🖥 Golang, Ruby, Rails, Sinatra 🎨 React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/coinbase) |
 |Aula Education 🇬🇧 |EdTech|🖥 JavaScript, Node.js 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/aula-education) |
 |Nozbe 🇵🇱 |Productivity tool|🖥 JavaScript, Python 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/nozbe) |
@@ -100,4 +100,3 @@
 |Good Money 🇺🇸 |Banking|🖥 Scala, Golang, Python, GraphQL 🎨 JavaScript, TypeScript ☁️ AWS| ❌ | ✅ |[ℹ️](https://remotebydefault.org/companies/good-money) |
 |Ahrefs 🇺🇸 |SEO|🖥 C++, Rust, OCaml, ReasonML 🎨 React, JavaScript, Gatsby| ❌ | ✅ |[ℹ️](https://remotebydefault.org/companies/ahrefs) |
 |Airtable 🇺🇸 |Databases & tools|🖥 Ruby, Node.js, JavaScript 🎨 JavaScript, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/airtable) |
-

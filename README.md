@@ -1,4 +1,16 @@
-| Company | Domain | Tech-stack | Salary transparency | Global salary | Profile |
+## Description ##
+
+A list of the remote software companies.
+
+Every company on the list contains information about their:
+ - headquarters
+ - field of expertise (domain)
+ - tech stack - programming languages, frameworks, libraries & tools used
+ - transparent & globally equal salary
+
+## Companies ##
+
+| Company | Domain | Tech stack | Salary transparency | Global salary | Profile |
 | ------- | ------ | :--------: | :-----------------: | :-----------: | :-----: |
 |1Password 🇨🇦 |Password management|🖥 Golang 🎨 React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/1password) |
 |Aha! 🇺🇸 |Product development|🖥 Rails, Ruby, Node.js 🎨 React ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/aha) |
@@ -100,3 +112,9 @@
 |Vercel 🇺🇸 |Infrastructure|🖥 JavaScript 🎨 Next.js, React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/vercel) |
 |VMware 🇺🇸 |Infrastructure|🖥 Golang, Java, Kotlin, JavaScript, Ruby| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/vmware) |
 |Zapier 🇺🇸 |Social media automation|🖥 Python, Django, Node.js, Golang 🎨 React, JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/zapier) |
+
+## More information ##
+
+For more detailed information visit [Remote By Default - a transparent directory of remote software companies](https://remotebydefault.org).
+
+Feel free to contribute!

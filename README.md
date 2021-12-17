@@ -10,7 +10,7 @@ Every company on the list contains information about their:
 
 ## Companies ##
 
-| Company | Domain | Tech stack | Salary transparency | Global salary | Profile |
+| Company | Domain | Tech-stack | Salary transparency | Global salary | Profile |
 | ------- | ------ | :--------: | :-----------------: | :-----------: | :-----: |
 |1Password 🇨🇦 |Password management|🖥 Golang 🎨 React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/1password) |
 |Aha! 🇺🇸 |Product development|🖥 Rails, Ruby, Node.js 🎨 React ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/aha) |
@@ -18,23 +18,23 @@ Every company on the list contains information about their:
 |Airtable 🇺🇸 |Databases & tools|🖥 Ruby, Node.js, JavaScript 🎨 JavaScript, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/airtable) |
 |Amazon 🇺🇸 |E-commerce|🖥 Java, C++, C# 🎨 JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/amazon) |
 |Articulate 🇺🇸 |EdTech|🖥 Ruby, Rails, Node.js, JavaScript, WordPress, C# 🎨 React ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/articulate) |
-|Aula Education 🇬🇧 |EdTech|🖥 JavaScript, Node.js 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/aula-education) |
+|Aula Education undefined |EdTech|🖥 JavaScript, Node.js 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/aula-education) |
 |Auth0 🇺🇸 |Security|🖥 Node.js, GraphQL 🎨 React ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/auth0) |
 |Automattic 🇺🇸 |Content management|🖥 PHP, WordPress| ❌ | ✅ |[ℹ️](https://remotebydefault.org/companies/automattic) |
 |Balsamiq 🇮🇹 |Design|🖥 Rails, Ruby ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/balsamiq) |
-|Baremetrics 🇺🇸 |Business management|🖥 Ruby 🎨 Vue, TypeScript| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/baremetrics) |
+|Baremetrics 🇺🇸 |Business management|🖥 Ruby 🎨 Vue.js, TypeScript| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/baremetrics) |
 |BaseCamp 🏡 |Project management|🖥 Ruby, Rails| ❌ | ✅ |[ℹ️](https://remotebydefault.org/companies/basecamp) |
 |Bitovi 🇺🇸 |Custom software development|🖥 JavaScript, Node.js 🎨 JavaScript, Angular, React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/bitovi) |
 |Buffer 🏡 |Social media automation|🖥 Node.js, GraphQL 🎨 React, Next.js| ✅ | ❌ |[ℹ️](https://remotebydefault.org/companies/buffer) |
 |Cabify 🇪🇸 |Transport|🖥 Golang, Elixir, Ruby, Java 🎨 React, TypeScript ☁️ AWS, GCP| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/cabify) |
-|Canonical 🇬🇧 |Operating Systems|🖥 Python, Golang| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/canonical) |
-|Casumo 🇲🇹 |Gaming|🖥 Python, Java, Spring Framework, Dropwizard 🎨 React, JavaScript, Vue, ☁️ AWS| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/casumo) |
+|Canonical undefined |Operating Systems|🖥 Python, Golang| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/canonical) |
+|Casumo 🇲🇹 |Gaming|🖥 Python, Java, Spring Framework, Dropwizard 🎨 React, JavaScript, Vue.js ☁️ AWS| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/casumo) |
 |Chili Piper 🇺🇸 |Sales|🖥 Kotlin, Scala, Akka, Play ☁️ GCP| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/chili-piper) |
 |CircleCI 🇺🇸 |Infrastructure|🖥 Python, Ruby, Django, Golang, Clojure 🎨 React, JavaScript, TypeScript ☁️ AWS, GCP| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/circleci) |
 |Clevertech 🇺🇸 |Custom software development|🖥 PHP, Python, Node.js, Java, Spring Framework 🎨 JavaScript, TypeScript, React ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/clevertech) |
 |Codacy 🇵🇹 |Infrastructure|🖥 Scala ☁️ AWS| ✅ | ❌ |[ℹ️](https://remotebydefault.org/companies/codacy) |
 |Coinbase 🇺🇸 |Cryptocurrency platform|🖥 Golang, Ruby, Rails, Sinatra 🎨 React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/coinbase) |
-|Collabora 🇬🇧 |Custom software development|🖥 Python, Django, Rust, Java, C++| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/collabora) |
+|Collabora undefined |Custom software development|🖥 Python, Django, Rust, Java, C++| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/collabora) |
 |ConvertKit 🏡 |Mailing service|🖥 Ruby, WordPress| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/convertkit) |
 |Datadog 🇺🇸 |Infrastructure|🖥 Java, Golang, JavaScript, Java EE, PHP, Ruby, .NET, C#, Python ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/datadog) |
 |DigitalOcean 🇺🇸 |Infrastructure|🖥 Golang, Python 🎨 React| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/digitalocean) |
@@ -46,17 +46,19 @@ Every company on the list contains information about their:
 |DuckDuckGo 🇺🇸 |Search engine|🖥 C#, .NET, Kotlin, Swift, Golang, Perl| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/duckduckgo) |
 |Elastic 🇳🇱 |Infrastructure|🖥 Java, JavaScript 🎨 JavaScript, TypeScript, React| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/elastic) |
 |Envato 🇦🇺 |Marketplace|🖥 Ruby, Rails 🎨 JavaScript, React ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/envato) |
-|Epam 🇺🇸 |Custom software development|🖥 C#, Kotlin, Java, GraphQL, Ruby, Rails, Python, .NET, 🎨 Vue, Angular, React, JavaScript, TypeScript ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/epam) |
+|Epam 🇺🇸 |Custom software development|🖥 C#, Kotlin, Java, GraphQL, Ruby, Rails, Python, .NET, 🎨 Vue.js, Angular, React, JavaScript, TypeScript ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/epam) |
 |Epic Games 🇺🇸 |Gaming|🖥 Node.js, JavaScript, C++, Golang, Python, Java, Kotlin, Scala, Golang, C# 🎨 React, JavaScript, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/epic-games) |
 |Etsy 🇺🇸 |Marketplace|🖥 PHP, Scala ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/etsy) |
-|Expedia Group 🇺🇸 |Travel|🖥 JavaScript, Python, Java, Node.js, GraphQL, Kotlin 🎨 React, Javascript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/expedia) |
+|Expedia Group 🇺🇸 |Travel|🖥 JavaScript, Python, Java, Node.js, GraphQL, Kotlin, Jersey 🎨 React, Javascript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/expedia) |
 |FlexJobs 🇺🇸 |Jobs & career|🖥 .NET, C#, PHP, Ruby, Rails 🎨 JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/flexjobs) |
 |Ghost 🏡 |Content management|🖥 JavaScript, Node.js 🎨 JavaScript, Ember.js| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/ghost) |
 |Gitbook 🇪🇺 |Project management|🖥 Node.js, JavaScript 🎨 React, TypeScript| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/gitbook) |
 |GitHub 🇺🇸 |Infrastructure|🖥 .NET, C#, Ruby, Golang, JavaScript 🎨 JavaScript ☁️ Azure| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/github) |
 |GitLab 🏡 |Infrastructure|🖥 Ruby, Rails 🎨 Vue.js ☁️ GCP, AWS| ✅ | ❌ |[ℹ️](https://remotebydefault.org/companies/gitlab) |
+|GOhiring 🇩🇪 |Jobs & career|🖥 Ruby, Rails 🎨 Ember.js, React, JavaScript ☁️ AWS, Heroku| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/gohiring) |
 |Good Money 🇺🇸 |Banking|🖥 Scala, Golang, Python, GraphQL 🎨 JavaScript, TypeScript ☁️ AWS| ❌ | ✅ |[ℹ️](https://remotebydefault.org/companies/good-money) |
-|Gumroad 🇺🇸 |Marketplace|🖥 Ruby, JavaScript 🎨 React| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/gumroad) |
+|Grafana Labs 🇺🇸 |Infrastructure|🖥 Golang, Python, Ruby, Java, 🎨 React, JavaScript, TypeScript ☁️ Azure, AWS, GCP| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/grafana-labs) |
+|Gumroad 🇺🇸 |Marketplace|🖥 Ruby, Rails, JavaScript 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/gumroad) |
 |Harvest 🇺🇸 |Time tracking|🖥 Node.js, Ruby, Rails, GraphQL 🎨 JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/harvest) |
 |Help Scout 🇺🇸 |Customer support|🖥 Kotlin, Ruby, Go, Python, Java, PHP 🎨 React, Gatsby ☁️ AWS| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/help-scout) |
 |Heroku 🇺🇸 |Infrastructure|🖥 Ruby, Golang ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/heroku) |
@@ -79,13 +81,13 @@ Every company on the list contains information about their:
 |Microsoft 🇺🇸 |Office tools|🖥 C#, .NET, Kotlin, C, C++, Python 🎨 JavaScript, TypeScript ☁️ Azure| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/microsoft) |
 |MongoDB 🇺🇸 |Databases & tools|🖥 Golang, Python, Dart, C#, C++ 🎨 TypeScript ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/mongodb) |
 |Mozilla 🇺🇸 |Browsers|🖥 C++, Golang, Rust, JavaScript, Python 🎨 React, JavaScript| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/mozilla) |
-|Netguru 🇵🇱 |Custom software development|🖥 Python, Node.js, Ruby, Rails, Elixir, Java, .NET, WordPress, PHP, Golang, 🎨 JavaScript, React, Angular, TypeScript, Vue ☁️ Azure, AWS, GCP| ✅ | ❌ |[ℹ️](https://remotebydefault.org/companies/netguru) |
+|Netguru 🇵🇱 |Custom software development|🖥 Python, Node.js, Ruby, Rails, Elixir, Java, .NET, WordPress, PHP, Golang, 🎨 JavaScript, React, Angular, TypeScript, Vue.js ☁️ Azure, AWS, GCP| ✅ | ❌ |[ℹ️](https://remotebydefault.org/companies/netguru) |
 |Netlify 🇺🇸 |Infrastructure|🖥 Ruby, Golang, Rust, C++ 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/netlify) |
 |Nozbe 🇵🇱 |Productivity tool|🖥 JavaScript, Python 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://remotebydefault.org/companies/nozbe) |
 |npm 🇺🇸 |Infrastructure|🖥 Node.js, JavaScript, Golang, Ruby, Rails 🎨 JavaScript, TypeScript| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/npm) |
 |O'Reilly Media 🇺🇸 |EdTech|🖥 Python, Django, Golang, Node.js, JavaScript, Ruby, Rails 🎨 React, JavaScript ☁️ GCP, AWS, Azure| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/oreilly-media) |
 |Oracle 🇺🇸 |Databases & tools|🖥 C#, .NET, Java, C++, Kotlin, Golang, C, Python 🎨 JavaScript, React, Angular ☁️ OCI, AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/oracle) |
-|Parsely 🇺🇸 |Content management|🖥 Python 🎨 Vue, D3.js ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/parsely) |
+|Parsely 🇺🇸 |Content management|🖥 Python 🎨 Vue.js, D3.js ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/parsely) |
 |Prezly 🇧🇪 |Public Relations|🖥 PHP, Symfony 🎨 React, JavaScript, TypeScript, NextJS ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/prezly) |
 |Puppet 🇺🇸 |Infrastructure|🖥 Golang ☁️ GCP, AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/puppet) |
 |Reddit 🇺🇸 |Online community|🖥 Python, Node.js, JavaScript 🎨 Typescript, React, Backbone.js ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/reddit) |
@@ -106,7 +108,7 @@ Every company on the list contains information about their:
 |Treehouse 🇺🇸 |EdTech|🖥 Ruby, Rails, Java, C#, Python 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/treehouse) |
 |Trello 🇺🇸 |Project management|🖥 Node.js 🎨 JavaScript, CoffeeScript| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/trello) |
 |Twitter 🇺🇸 |Social media|🖥 Java, Scala| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/twitter) |
-|Tyk 🇬🇧 |Infrastructure|🖥 Golang 🎨 React, JavaScript, TypeScript ☁️ AWS, Azure, OpenShift| ❌ | ✅ |[ℹ️](https://remotebydefault.org/companies/tyk) |
+|Tyk undefined |Infrastructure|🖥 Golang 🎨 React, JavaScript, TypeScript ☁️ AWS, Azure, OpenShift| ❌ | ✅ |[ℹ️](https://remotebydefault.org/companies/tyk) |
 |Udacity 🇺🇸 |EdTech|🖥 Golang, Ruby, Python, Node.js, GraphQL 🎨 React, JavaScript, Next.js, TypeScript ☁️ AWS, GCP| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/udacity) |
 |Uhuru Network 🇺🇸 |Marketing|🖥 Node.js, Express, JavaScript 🎨 Next.js, React, TypeScript ☁️ AWS, Heroku| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/uhuru-network) |
 |Vercel 🇺🇸 |Infrastructure|🖥 JavaScript 🎨 Next.js, React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/vercel) |

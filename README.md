@@ -117,6 +117,6 @@ Every company on the list contains information about their:
 
 ## More information ##
 
-For more detailed information visit [Remote By Default - a transparent directory of remote software companies](https://remotebydefault.org).
+For more detailed information visit [Remote By Default - a transparent directory of remote software companies](https://remotebydefault.org) or [European Remote](https://europeanremote.com) if you're located in Europe.
 
 Feel free to contribute!

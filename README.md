@@ -70,6 +70,7 @@ Every company on the list contains information about their:
 |Jobbatical 🇪🇪 |Jobs & career|🖥 Express, GraphQL, Node.js, JavaScript 🎨 JavaScript, React, ☁️ GCP| ❌ | ✅ |[ℹ️](https://remotebydefault.org/companies/jobbatical) |
 |Kaggle 🇺🇸 |Online community|🖥 R, Python, C++ 🎨 TypeScript ☁️ GCP| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/kaggle) |
 |Khan Academy 🇺🇸 |Online community|🖥 Golang, Python, GraphQL 🎨 React, JavaScript, Backbone.js ☁️ GCP| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/khan-academy) |
+|Klyck.io 🇨🇦 |Project management|🖥 Java, 📱 Ionic Framework ☁️ AWS, Kubernetes| ❌ | ❌ | [ℹ️](https://klyck.io) |
 |Komoot 🇩🇪 |Travel|🖥 Kotlin, Node.js, Python, Java, Ruby 🎨 React, JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/komoot) |
 |Lambda School 🇺🇸 |EdTech|🖥 Java, Python, Node.js 🎨 JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/lambda-school) |
 |Let's Encrypt 🇺🇸 |Infrastructure|🖥 Golang, Rust, Python| ❌ | ❌ |[ℹ️](https://remotebydefault.org/companies/lets-encrypt) |
